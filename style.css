@@ -1,0 +1,34 @@
+  
+  h1  {
+    color: #009;
+    font-size: 6em;
+    margin-bottom: .3em;
+    text-align: center;
+    text-decoration: bold;
+  }
+  
+  table {
+    margin: .3em;
+    width: 290px;
+  }
+  
+  th {
+    padding: .2em;
+  }
+  
+  td {
+    background-color: 	red;
+    border: 1px solid #900;
+    padding-left: .5em;
+    padding-right: .5em;
+  }
+  
+  #trHeader {
+    color: #900;
+    text-decoration: bold;
+  }
+  
+  .centerCell {
+    text-align: center;
+  }
+ body { background-image: url("https://forum.escapefromtarkov.com/uploads/monthly_2019_08/2133770201_ShturmanAnnounceImage.png.969726def0d71ff54d08a30facba4b77.png");
